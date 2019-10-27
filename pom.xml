@@ -23,7 +23,21 @@
           <target>${java.version}</target>
         </configuration>
       </plugin>
-    </plugins>
+
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-jar-plugin</artifactId>
+      <version>2.4</version>
+      <configuration>
+        <archive>
+          <index>true</index>
+          <manifest>
+            <mainClass>com.example.s3.InvokeFunction</mainClass>
+          </manifest>
+        </archive>
+      </configuration>
+    </plugin>
+  </plugins>
   </build>
   
   <dependencyManagement>
@@ -48,6 +62,11 @@
     <dependency>
       <groupId>software.amazon.awssdk</groupId>
       <artifactId>lambda</artifactId>
+    </dependency>
+    <dependency>
+      <artifactId>netty-nio-client</artifactId>
+      <groupId>software.amazon.awssdk</groupId>
+      <version>2.5.10</version>
     </dependency>
   </dependencies>
 </project>

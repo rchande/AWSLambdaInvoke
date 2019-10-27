@@ -1,14 +1,1 @@
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/DeleteBucketPolicy.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/SetWebsiteConfiguration.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/DeleteObjects.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/SetBucketPolicy.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/GetAcl.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/CopyObject.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/S3AsyncOps.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/DeleteWebsiteConfiguration.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/S3ObjectOperations.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/S3AsyncStreamOps.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/GetBucketPolicy.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/S3BucketDeletion.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/SetAcl.java
-/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/S3BucketOps.java
+/Users/ravi/Documents/aws-doc-sdk-examples-master/javav2/example_code/s3/src/main/java/com/example/s3/InvokeFunction.java
